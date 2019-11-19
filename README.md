@@ -1,5 +1,4 @@
-# Git-tutorail-with-Android-Studio-
-
+# Git-tutorail
 教程文件
 
 https://www.jianshu.com/p/885786074e96
