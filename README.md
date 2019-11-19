@@ -3,6 +3,8 @@
 教程文件
 http://www.ruanyifeng.com/blog/2015/12/git-workflow.html
 
+https://www.jianshu.com/p/885786074e96
+
 
 重點整理
 
